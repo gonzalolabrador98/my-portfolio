@@ -1,0 +1,14 @@
+.profileFormation {
+  display: flex;
+flex-direction: row;
+  text-align: center;
+
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.titleFormation {
+  font-size: 3.5vw;
+  font-weight: 500;
+  text-shadow: 0px 10px 10px black; 
+}
