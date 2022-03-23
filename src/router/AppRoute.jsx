@@ -5,7 +5,6 @@ import { ContactScreen } from '../components/pages/contactScreen/ContactScreen';
 import { ProjectsScreen } from '../components/pages/projectsScreen/ProjectsScreen';
 import { FormationScreen } from '../components/pages/formationScreen/FormationScreen';
 import { AboutMeScreen } from '../components/pages/aboutMeScreen/AboutMeScreen';
-import { WelcomeScreen } from '../components/pages/welcomeScreen/WelcomeScreen';
 import { Redirect } from 'react-router-dom/cjs/react-router-dom.min';
 import '../index.css';
 
