@@ -23,7 +23,7 @@ export const ProjectsScreen = () => {
             <h1 className="titleProjects">Projects</h1>
             <p>Click on the image to go to the project!</p>
           </div>
-          <hr style={{ margin: '30px' }} />
+          <hr style={{ marginBottom: '20px' }} />
 
           <div className="imgProjects">
             <div>
@@ -75,17 +75,17 @@ export const ProjectsScreen = () => {
 
             <div>
               <h1 className="titles">Heroes App</h1>
+              <div class="badge bg-red-700 m-1">HTML</div>
+              <div class="badge bg-blue-700 m-1">CSS</div>
+              <div class="badge bg-yellow-400 m-1">Javascript</div>
+              <div class="badge bg-blue-900 m-1">React</div>
+              <div class="badge bg-purple-900 m-1">Bootstrap</div>
               <p>
                 In Heroes App you have all the heroes of Marvel and DC. You can
                 find them on your own, or search for them by placing the hero's
                 name in the search engine. It was made using HTML5, CSS3,
                 JAVASCRIPT, BOOTSTRAP and REACT.
               </p>
-              <div class="badge bg-red-700 m-1">HTML</div>
-              <div class="badge bg-blue-700 m-1">CSS</div>
-              <div class="badge bg-yellow-400 m-1">Javascript</div>
-              <div class="badge bg-blue-900 m-1">React</div>
-              <div class="badge bg-purple-900 m-1">Bootstrap</div>
 
               <a
                 target="_blank"

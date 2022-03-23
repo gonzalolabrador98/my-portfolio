@@ -34,7 +34,3 @@ export default function AppRoute() {
     </Router>
   );
 }
-
-<Route exact path="/" component={WelcomeScreen}>
-  <WelcomeScreen />
-</Route>;
